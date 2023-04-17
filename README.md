@@ -5,6 +5,6 @@
 - <B>Eu estou aprendendo a programar em Markdown e HTML</B>
 
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-
-![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[YOUTUBE](http://youtube.com.br)
